@@ -1,3 +1,24 @@
+.bigCounter div{
+    display: inline-block;
+    font-size: 60px;
+    line-height: 60px;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/008/599/420/non_2x/hand-painted-pastel-watercolour-texture-background-free-vector.jpg);
+    color: black;
+    padding: 40px;
+    margin: 2.5rem;
+}
+
+.bigCounter{
+    text-align: center;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/008/599/420/non_2x/hand-painted-pastel-watercolour-texture-background-free-vector.jpg);
+    background-size: cover;
+}
+
+.buttons{
+    color: black;
+    background: rgb(177, 229, 249);
+    
+}
 
 /* 
 
